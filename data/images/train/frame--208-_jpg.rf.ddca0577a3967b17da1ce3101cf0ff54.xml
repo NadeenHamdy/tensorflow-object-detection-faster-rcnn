@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>frame--208-_jpg.rf.ddca0577a3967b17da1ce3101cf0ff54.jpg</filename>
+	<path>frame--208-_jpg.rf.ddca0577a3967b17da1ce3101cf0ff54.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>416</width>
+		<height>416</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>LeadTruck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>97</xmin>
+			<xmax>285</xmax>
+			<ymin>3</ymin>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>
